@@ -7,6 +7,8 @@ build
 yarn-error.log
 .yarn
 
+.npmrc
+
 src/styles/index.scss
 .vercel
 .turbo
