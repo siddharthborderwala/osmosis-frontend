@@ -3809,22 +3809,22 @@
     bignumber.js "^9.1.2"
     long "^5.2.3"
 
-"@leapwallet/embedded-wallet-sdk-core@0.3.2":
-  version "0.3.2"
-  resolved "https://registry.npmjs.org/@leapwallet/embedded-wallet-sdk-core/-/embedded-wallet-sdk-core-0.3.2.tgz#95b0b6f6e88d9786da19ff2b99c514e4935cf902"
-  integrity sha512-cfyZj2aFPagzYIhDkVaoslZXJ0pqigZS1r+WyBjbRgnfUoiLkZyhn3GQpZqYyBEbSZqiF5LdB3m6wUaxO23Zvg==
+"@leapwallet/embedded-wallet-sdk-core@0.3.3":
+  version "0.3.3"
+  resolved "https://registry.npmjs.org/@leapwallet/embedded-wallet-sdk-core/-/embedded-wallet-sdk-core-0.3.3.tgz#a22ff9f4f98166c3c168a5ca5059fc312e96bb9a"
+  integrity sha512-JjthV1Dya/iEopzLEidHA694YD7Cxf6APDkY+mJ0R8D1fKgGUKxbIpa4SrpLm/dkuCFPkmQb+/Qa8wnpJp/5Lw==
   dependencies:
     "@leapwallet/parser-parfait" "0.7.0"
     bignumber.js "^9.1.1"
     cross-fetch "4.0.0"
     typedi "0.10.0"
 
-"@leapwallet/embedded-wallet-sdk-react@^0.3.2":
-  version "0.3.2"
-  resolved "https://registry.npmjs.org/@leapwallet/embedded-wallet-sdk-react/-/embedded-wallet-sdk-react-0.3.2.tgz#ff002efae55344bdd163b5162dd7823ccde33b03"
-  integrity sha512-Y8cjSWN5XwXsfsz9lnOmNTiPnvDiXuPqnGnegxoVQzFhTC6GEOWqCw6f1/10D/ULIXu/qrsVooTFn327G8JKGg==
+"@leapwallet/embedded-wallet-sdk-react@^0.3.3":
+  version "0.3.3"
+  resolved "https://registry.npmjs.org/@leapwallet/embedded-wallet-sdk-react/-/embedded-wallet-sdk-react-0.3.3.tgz#45c64bd63223ad75c987b3e2614c51c8139dc208"
+  integrity sha512-2gp2CqHrWXPHVHRsZTPSMdiyGw0mGeEawYvpUPWzGfDvoWJZd6lykJNEVQgwqD5TFxUDIV1oEBnUXJMhrBF54A==
   dependencies:
-    "@leapwallet/embedded-wallet-sdk-core" "0.3.2"
+    "@leapwallet/embedded-wallet-sdk-core" "0.3.3"
     "@leapwallet/parser-parfait" "0.7.0"
     "@tanstack/react-query" "^4.33.0"
     "@vanilla-extract/css" "1.13.0"
